@@ -1,0 +1,13 @@
+menggunakan 2 project, Laravel frontend dan Laravel backend
+install kedua project 
+generate key
+copy env.example
+composer update
+
+sesuaikan route url pada env frontend
+API_URL=http://127.0.0.1:8001/api/
+
+jalankan migrate database dan seedernya di backend Laravel (api-madura)
+jalankan aplikasi
+
+
